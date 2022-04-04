@@ -6,7 +6,7 @@
 - [SHIPS segmented using a Convolutional Neural Net (CNN)](DLBasics_SHIPS.ipynb)
 - [Validation vs Testing](ValidationVsTest.pdf)
 - [Ways of avoiding overfitting and accelerating convergence to a solution](dropout-and-batch-normalization_editGE.ipynb)
-- [Using pre-trained models](DLBasics_TransferLearning.ipynb)
+- [Using pre-trained models](DL_TransferLearning.ipynb)
 - [Semantic segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net)
 
 All notebooks can be copied from and run on Google Colab:
